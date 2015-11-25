@@ -1,2 +1,2 @@
 # I Heart Sushi
-Visualization and analysis of Sushi Stop nutritional in ipython
+Visualization and analysis of Sushi Stop nutritional information in ipython
