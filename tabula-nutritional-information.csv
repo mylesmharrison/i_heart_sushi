@@ -1,0 +1,336 @@
+category,item,serving_size,calories,fat,saturated_fat,trans_fat,cholesterol,sodium,carbohydrates,fibre,sugar,protein,vitamin_a,vitamin_c,calcium,iron
+APPETIZERS & SALADS,Shrimp  Tempura,60,180,8,0,0,40,125,18,0,0,8,0,0,0,0
+APPETIZERS & SALADS,Three  salads,120,130,3.5,0,0,60,790,13,4,8,8,2,6,40,8
+APPETIZERS & SALADS,Wakame  ,125,110,2,0,0,0,1650,13,4,9,0,0,0,110,0
+APPETIZERS & SALADS,Miso  soup,255,70,3,0.5,0,0,810,8,1,1,6,0,0,20,25
+APPETIZERS & SALADS,Grilled  salmon  salad  ,276,260,19,2.5,0,30,340,12,3,6,12,80,80,8,8
+APPETIZERS & SALADS,Green  salad,123,150,14,1,0,0,400,8,1,5,2,30,10,2,4
+APPETIZERS & SALADS,Spicy  squid  salad,110,120,3,0,0,170,320,12,0,12,12,0,2,2,6
+APPETIZERS & SALADS,Tataki  tuna  salad  ,276,250,17,2.5,0.1,30,340,12,3,6,14,80,80,8,8
+APPETIZERS & SALADS,Yasai  salad  ,258,200,15,1,0,5,890,13,3,9,3,80,25,25,6
+APPETIZERS & SALADS,Edamame  beans,135,170,5,0,0,0,440,15,7,2,13,8,15,8,20
+APPETIZERS & SALADS,Fruit  bowl,207,110,0.5,0.1,0,0,3,28,4,20,2,8,140,4,4
+SMALL  RAMEN  SOUP,Miso,290,240,9,2,0,50,820,24,2,2,15,0,4,20,15
+SMALL  RAMEN  SOUP,Miso  with  Grilled  Chicken,330,320,15,2.5,0,70,895,30,2,2,18,4,12,20,17
+SMALL  RAMEN  SOUP,Miso  with  Seafood,340,300,10.5,2.3,0,90,990,26,2,2,24,2,4,22,19
+SMALL  RAMEN  SOUP,Miso  with  Shrimp  Tempura,310,300,11.5,2,0,65,860,30,2,2,18,0,4,20,15
+SMALL  RAMEN  SOUP,Shoyu,290,140,3,0.5,0,50,200,18,1,0,8,2,4,4,4
+SMALL  RAMEN  SOUP,Shoyu  with  Grilled  Chicken,330,220,9,1,0,70,275,24,1,0,11,6,12,4,6
+SMALL  RAMEN  SOUP,Shoyu  with  Seafood,340,200,4.5,0.8,0,90,370,20,1,0,17,4,4,6,8
+SMALL  RAMEN  SOUP,Shoyu  with  Shrimp  Tempura,310,200,5.5,0.5,0,65,240,24,1,0,11,2,4,4,4
+SMALL  RAMEN  SOUP,Tonkotsu,290,220,6,2.5,0,55,660,26,1,1,7,0,4,4,4
+SMALL  RAMEN  SOUP,Tonkotsu  with  Grilled  Chicken,330,300,12,3,0,75,735,32,1,1,10,4,12,4,6
+SMALL  RAMEN  SOUP,Tonkotsu  with  Seafood,340,280,7.5,2.8,0,95,830,28,1,1,16,2,4,6,8
+SMALL  RAMEN  SOUP,Tonkotsu  with  Shrimp  Tempura,310,280,8.5,2.5,0,70,700,32,1,1,10,0,4,4,4
+NIGIRI  &  SASHIMI,Syake  Nigiri,62,80,2,0.3,0,20,15,8,0,0,7,0,0,0,2
+NIGIRI  &  SASHIMI,Syake  Nigiri  (brown  rice),62,100,2.5,0.3,0,20,15,10,1,0,7,0,0,0,2
+NIGIRI  &  SASHIMI,Syake  Sashimi,42,45,2,0.3,0,20,14,0,0,0,6,0,2,0,2
+NIGIRI  &  SASHIMI,Seared  Syake  ,66,80,2,0.3,0,20,230,8,0,0,7,0,0,0,2
+NIGIRI  &  SASHIMI,Seared  Syake  (brown  rice),66,100,2.5,0.3,0,20,230,10,1,0,8,0,0,0,2
+NIGIRI  &  SASHIMI,Izumidai  Nigiri,58,60,0.5,0.2,0,15,15,8,0,0,6,0,0,0,2
+NIGIRI  &  SASHIMI,Izumidai  Nigiri  (brown  rice),58,80,1,0.2,0,15,15,10,1,0,7,0,0,0,2
+NIGIRI  &  SASHIMI,Izumidai    Sashimi,38,30,0.5,0.2,0,15,125,0,0,6,6,0,0,0,2
+NIGIRI  &  SASHIMI,Seared  Izumidai  Nigiri,68,100,4.5,0.5,0,15,790,8,0,0,6,0,4,0,2
+NIGIRI  &  SASHIMI,Seared  Izumidai  Nigiri  (brown  rice),68,110,5,0.5,0,15,790,10,1,0,7,0,4,0,2
+NIGIRI  &  SASHIMI,Philly  kunsei  syake,61,70,2,0.5,0,5,200,8,0,0,5,2,0,0,2
+NIGIRI  &  SASHIMI,Philly  kunsei  syake  (brown  rice),61,90,2.5,0.5,0,5,200,11,1,0,6,2,0,0,2
+NIGIRI  &  SASHIMI,Ebi  Nigiri,44,50,0.2,0,0,20,20,8,0,0,3,0,0,2,2
+NIGIRI  &  SASHIMI,Ebi  Nigiri  (brown  rice),44,70,0.5,0,0,20,20,10,1,0,4,0,0,0,2
+NIGIRI  &  SASHIMI,Ebi  Sashimi,24,15,0.2,0,0,20,19,0,0,0,3,0,2,0,2
+NIGIRI  &  SASHIMI,Maguro  Nigiri,58,70,0.3,0.1,0,15,10,8,0,0,7,0,0,0,2
+NIGIRI  &  SASHIMI,Maguro  Nigiri  (brown  rice),58,80,0.5,0.1,0,15,10,10,1,0,7,0,0,0,2
+NIGIRI  &  SASHIMI,Maguro  Sashimi,38,30,0.3,0.1,0,15,9,0,0,0,7,0,2,0,2
+NIGIRI  &  SASHIMI,Inari,74,130,4.5,2,0,0,190,17,1,6,5,0,0,10,10
+NIGIRI  &  SASHIMI,Inari  (brown  rice),74,150,5,2,0,0,190,20,2,6,5,0,0,10,10
+NIGIRI  &  SASHIMI,Kunsei  Syake  Nigiri,46,50,0.5,0.1,0,5,125,8,0,0,4,0,0,0,2
+NIGIRI  &  SASHIMI,Kunsei  Syake  Nigiri  (brown  rice),46,70,1,0.1,0,5,125,10,1,0,4,0,0,0,2
+NIGIRI  &  SASHIMI,Kunsei  Syake  Sashimi,26,20,0.5,0.1,0,5,129,0,0,0,3,0,2,0,0
+NIGIRI  &  SASHIMI,Masago  Rouge,74,90,1,0,0,100,680,15,0,4,3,0,2,0,0
+NIGIRI  &  SASHIMI,Masago  Rouge  (brown  rice),74,110,1.5,0,0,100,680,18,2,4,4,0,2,0,0
+NIGIRI  &  SASHIMI,Masago  Orange  ,74,90,1,0,0,100,680,15,0,4,3,0,2,0,0
+NIGIRI  &  SASHIMI,Masago  Orange  (brown  rice),74,110,1.5,0,0,100,680,18,2,4,4,0,2,0,0
+NIGIRI  &  SASHIMI,Karai  Syake,100,130,3,0.4,0,25,120,18,0,1,8,0,2,2,6
+NIGIRI  &  SASHIMI,Karai  Syake  (brown  rice),100,150,4,0.4,0,25,120,21,2,1,8,0,2,0,4
+NIGIRI  &  SASHIMI,Karai  Maguro,100,120,1.5,0.2,0,20,120,18,0,1,9,0,2,2,6
+NIGIRI  &  SASHIMI,Karai  Maguro  (brown  rice),100,140,2.5,0.2,0,20,120,21,2,1,9,0,2,0,4
+NIGIRI  &  SASHIMI,Karai  Ebi,100,120,2,0.2,0,50,150,18,0,1,8,2,2,2,8
+NIGIRI  &  SASHIMI,Karai  Ebi  (brown  rice),100,140,2.5,0.2,0,50,150,21,2,1,8,2,2,2,8
+TARTARE,Maki  tartare  salmon  ,123,170,6,1,0,50,400,19,1,2,10,6,4,4,10
+TARTARE,Maki  tartare  shrimp,123,160,4,0.5,0,90,440,19,1,2,10,8,4,6,15
+TARTARE,Maki  tartare  veggie  ,125,100,2.5,0.4,0,0,740,19,2,4,1,50,40,2,6
+TARTARE,Maki  tartare  tuna,123,160,4,0.4,0,45,400,19,1,2,12,6,4,4,10
+TARTARE,Maki  tartare  tilapia,123,150,4,0.5,0,50,400,19,1,2,10,6,4,4,8
+TARTARE,Tartares  salmon,151,190,6,1,0,45,850,13,1,1,19,2,10,4,10
+TARTARE,Tartares  tuna,151,160,2,0.4,0,35,850,13,1,1,22,2,15,4,10
+TARTARE,Smoked  salmon  &  salmon,149,220,14,2,0,40,730,2,1,1,20,2,4,4,8
+HOSOMAKI,Philly  Kappa  ,114,130,4.5,2.5,0,10,40,18,2,1,4,4,8,4,4
+HOSOMAKI,Philly  Kappa    (brown  rice),114,160,6,2.5,0,10,40,23,3,1,4,4,8,4,4
+HOSOMAKI,Akanasu  avocado,149,370,26,8,0.2,15,640,27,6,4,8,8,10,8,10
+HOSOMAKI,Akanasu  avocado  (brown  rice),149,400,27,8,0.2,15,640,31,8,4,8,8,10,8,10
+HOSOMAKI,Kappa  ,104,90,1,0.2,0,0,10,18,2,1,3,0,8,4,4
+HOSOMAKI,Kappa  (brown  rice),104,120,2,0.2,0,0,10,22,3,1,3,0,8,2,2
+HOSOMAKI,Avocado,119,160,8,1.5,0,0,15,20,4,0,4,2,10,4,6
+HOSOMAKI,Avocado  (brown  rice),119,160,9,1.5,0,0,10,18,5,0,3,2,10,2,6
+HOSOMAKI,Oshinko,114,90,1,0.2,0,0,450,18,1,0,3,0,10,4,2
+HOSOMAKI,Oshinko  (brown  rice),114,120,2,0.2,0,0,450,23,3,0,3,0,10,2,2
+HOSOMAKI,Akanasu,109,310,20,7,0.2,15,640,24,4,4,7,4,4,8,8
+HOSOMAKI,Akanasu  (brown  rice),109,340,21,7,0.2,15,640,28,6,4,7,4,4,6,6
+HOSOMAKI,Syake,116,140,3.5,0.5,0,20,25,17,1,0,11,0,6,4,6
+HOSOMAKI,Syake  (brown  rice),116,170,4.5,0.5,0,20,25,22,3,0,11,0,6,4,4
+HOSOMAKI,Syake  Spicy,119,150,4,0.5,0,20,60,17,1,0,11,0,6,4,6
+HOSOMAKI,Syake  Spicy  (brown  rice),119,180,5,0.5,0,20,60,22,3,0,11,0,6,4,4
+HOSOMAKI,Tekka,116,130,1.5,0.3,0,20,25,17,1,0,12,0,6,4,4
+HOSOMAKI,Tekka  (brown  rice),116,160,2.5,0.3,0,20,25,22,3,0,13,0,6,4,4
+HOSOMAKI,Tekka  Spicy,119,140,2,0.3,0,20,55,17,1,0,12,0,6,4,4
+HOSOMAKI,Tekka  Spicy  (brown  rice),119,170,3,0.3,0,20,55,22,3,0,13,0,6,4,4
+HOSOMAKI,Tamago,112,150,3.5,1,0,150,180,22,1,5,6,4,4,6,6
+HOSOMAKI,Tamago  (brown  rice),112,180,4.5,1,0,150,180,27,3,5,7,4,4,4,6
+HOSOMAKI,Kani  Kama  ,104,120,1.5,0.3,0,5,260,20,1,0,6,0,4,4,4
+HOSOMAKI,Kani  Kama  (brown  rice),104,150,2.5,0.3,0,5,260,24,3,0,7,0,4,2,2
+HOSOMAKI,Tempura  Syake  ,131,170,4,0.5,0,15,85,24,2,1,9,0,6,4,8
+HOSOMAKI,Tempura  Syake    (brown  rice),131,200,5,0.5,0,15,85,28,3,1,10,0,6,4,6
+HOSOMAKI,Tempura  Tekka  ,131,160,2.5,0.3,0,15,85,24,2,1,11,0,6,4,8
+HOSOMAKI,Tempura  Tekka    (brown  rice),131,190,3,0.3,0,15,85,28,3,1,11,0,6,4,6
+MAKI,Black  Mamba,227,400,18,2,0.1,120,570,37,2,1,20,6,10,4,15
+MAKI,Black  Mamba  (brown  rice)  ,227,440,19,2,0.1,120,570,43,4,1,21,6,10,2,10
+MAKI,Vancouver,168,230,11,3.5,0.1,20,300,26,3,1,10,8,8,6,8
+MAKI,Vancouver  (brown  rice),168,270,12,3.5,0.1,20,300,31,5,1,11,8,8,6,5
+MAKI,911,169,200,4,0.5,0,40,300,30,2,2,12,2,8,4,8
+MAKI,911  (brown  rice),169,240,5,0.5,0,40,300,36,5,2,12,2,8,4,6
+MAKI,Ebi  Maki,178,190,4,0.5,0,50,240,30,2,2,9,2,10,6,10
+MAKI,Ebi  Maki  (brown  rice),178,230,5,0.5,0,50,240,36,5,2,10,2,10,4,10
+MAKI,Twin  salmon,180,230,9,1.5,0,45,400,26,3,1,13,2,10,4,8
+MAKI,Twin  salmon  (brown  rice),180,270,10,1.5,0,45,400,32,5,1,13,2,10,4,6
+MAKI,Chef's  Maki,190,220,6,1,0,60,510,28,3,4,12,2,25,6,6
+MAKI,Chef's  Maki  (brown  rice),190,260,7,1,0,60,510,34,5,4,12,2,25,4,4
+MAKI,Dragon,210,320,13,1,0,60,330,40,3,2,10,2,15,2,6
+MAKI,Dragon  (brown  rice),210,360,13,1,0,60,330,46,5,2,11,2,15,2,4
+MAKI,California  Classic,162,180,5,1,0,5,290,27,2,0,7,2,8,4,6
+MAKI,California  Classic  (brown  rice),162,220,6,1,0,5,290,33,3,0,8,2,8,4,4
+MAKI,Sweetheart,178,220,6,1,0,50,390,29,2,1,14,0,15,4,8
+MAKI,Sweetheart  (brown  rice),178,260,7,1,0,50,390,35,4,1,15,0,15,4,8
+MAKI,Red  Tiger,222,320,13,2,0,80,530,28,1,0,23,2,6,4,15
+MAKI,Red  Tiger  (brown  rice),222,360,14,2,0,80,530,34,4,0,24,2,6,2,15
+MAKI,Chicken  Teriyaki,166,270,12,1.5,0,25,190,34,3,2,6,4,15,4,6
+MAKI,Chicken  Teriyaki  (brown  rice),166,310,13,1.5,0,25,190,40,5,2,7,4,18,4,6
+SUMOMAKI,Lion  Roll  ,203,360,18,2,0.1,65,860,39,2,8,6,70,20,2,4
+SUMOMAKI,Lion  Hand  Roll  ,128,220,10,1,0,50,540,25,2,4,5,35,15,2,2
+SUMOMAKI,Lion  Roll  (brown  rice)  ,203,390,19,2,0.1,65,860,44,4,8,7,70,20,2,4
+SUMOMAKI,Lion  Hand  Roll  (brown  rice),128,240,11,1,0,50,540,28,3,4,6,95,15,0,2
+SUMOMAKI,Vegetarian  Roll,172,160,6,1,0,5,85,24,3,2,4,40,45,6,6
+SUMOMAKI,Vegetarian  Hand  Roll,127,110,4.5,0.5,0,0,60,16,3,1,3,35,25,4,6
+SUMOMAKI,Vegetarian  Roll  (brown  rice),172,200,7,1,0,5,85,29,5,2,5,40,25,4,6
+SUMOMAKI,Vegetarian  Hand  Roll  (brown  rice),127,130,5,0.5,0,0,60,19,4,1,4,35,25,4,6
+SUMOMAKI,California  Roll,211,230,9,1.5,0.1,130,480,29,3,5,9,15,10,6,10
+SUMOMAKI,California  Hand  Roll,171,170,7,1,0,130,460,20,3,5,8,15,10,6,10
+SUMOMAKI,California  Roll  (brown  rice),211,260,10,1.5,0.1,130,480,34,5,6,9,15,10,6,10
+SUMOMAKI,California  Hand  Roll  (brown  rice),171,190,7,1,0,130,460,23,4,5,8,15,10,6,8
+SUMOMAKI,Dynamite  Roll,160,230,10,1,0,40,280,29,3,2,7,2,10,4,4
+SUMOMAKI,Dynamite  Hand  Roll,130,180,8,1,0,40,250,21,3,2,6,2,10,4,4
+SUMOMAKI,Dynamite  Roll  (brown  rice),160,260,11,1,0,40,270,34,5,2,7,2,10,4,4
+SUMOMAKI,Dynamite  Hand  Roll  (brown  rice),130,200,9,1,0,40,250,24,4,2,6,2,10,4,4
+SUMOMAKI,Spicy  Salmon  crunch  Roll,171,180,3,0.4,0,20,120,27,1,2,10,2,8,2,8
+SUMOMAKI,Spicy  Salmon  crunch  Hand  Roll,120,150,4.5,0.4,0,30,80,16,1,1,11,0,6,2,4
+SUMOMAKI,Spicy  Salmon  crunch  Roll  (brown  rice),171,210,4,0.4,0,20,120,32,3,2,10,2,8,0,6
+SUMOMAKI,Spicy  Salmon  crunch  Hand  Roll  (brown  rice),120,170,5,0.4,0,30,80,19,2,1,11,0,6,0,4
+SUMOMAKI,Spicy  Tuna  crunch  Roll,171,170,1.5,0.2,0,15,115,27,1,2,11,2,8,2,8
+SUMOMAKI,Spicy  Tuna  crunch  Hand  Roll,120,140,2.5,0.1,0,25,80,16,1,1,12,0,8,2,4
+SUMOMAKI,Spicy  Tuna  crunch  Roll  (brown  rice),171,200,2.5,0.2,0,15,115,32,3,2,11,2,8,2,6
+SUMOMAKI,Spicy  Tuna  crunch  Hand  Roll  (brown  rice),120,160,3,0.1,0,25,80,19,2,1,12,0,8,0,4
+SUMOMAKI,Boston  Roll,176,170,4.5,0.5,0.1,55,390,24,2,2,9,6,10,6,8
+SUMOMAKI,Boston  Hand  Roll,143,120,2.5,0.4,0,55,360,16,2,2,8,10,8,6,8
+SUMOMAKI,Boston  Roll  (brown  rice),176,210,6,0.5,0.1,55,390,29,4,2,9,6,10,4,6
+SUMOMAKI,Boston  Hand  Roll  (brown  rice),143,140,3.5,0.4,0,55,360,19,3,2,9,10,8,4,8
+SUMOMAKI,Tuna  Kamikaze    Roll,180,200,4.5,0.5,0,40,430,29,2,2,12,2,8,2,8
+SUMOMAKI,Tuna  Kamikaze  Hand  Roll,134,150,4.5,0.5,0,45,380,19,2,2,9,2,8,2,4
+SUMOMAKI,Tuna  Kamikaze    Roll  (brown  rice),180,240,5,0.5,0,40,430,34,4,2,12,2,8,2,6
+SUMOMAKI,Tuna  Kamikaze  Hand  Roll  (brown  rice),134,170,5,0.5,0,45,380,22,3,2,10,2,8,0,4
+SUMOMAKI,Salmon  Kamikaze    Roll,180,210,6,0.5,0,45,430,29,2,2,11,2,8,2,8
+SUMOMAKI,Salmon  Kamikaze  Hand  Roll  ,134,160,5,0.5,0,45,380,19,2,2,9,2,8,2,4
+SUMOMAKI,Salmon  Kamikaze    Roll(brown  rice),180,250,7,0.5,0,45,430,34,4,2,12,2,8,0,6
+SUMOMAKI,Salmon  Kamikaze  Hand  Roll    (brown  rice),134,180,6,0.5,0,45,380,22,3,2,9,2,8,0,4
+SUMOMAKI,Snow  Crab  Roll,170,190,4,0.5,0,30,530,26,2,1,11,0,8,4,6
+SUMOMAKI,Snow  Crab  Hand  Roll,122,140,4.5,0.4,0,35,460,17,2,1,9,0,8,2,2
+SUMOMAKI,Snow  Crab  Roll  (brown  rice),170,220,5,0,0,30,530,31,4,1,11,0,8,2,4
+SUMOMAKI,Snow  Crab  Hand  Roll    (brown  rice),122,160,5,0.4,0,35,460,20,3,1,9,0,8,2,2
+SUMOMAKI,Rainbow  Roll,194,220,6,1,0,25,125,28,2,2,14,2,10,2,10
+SUMOMAKI,Rainbow  Hand  Roll,119,150,5,0.5,0,20,70,16,2,0,10,2,8,2,4
+SUMOMAKI,Rainbow  Roll  (brown  rice),194,250,7,1,0,25,125,33,4,2,14,2,10,2,8
+SUMOMAKI,RainbowHand  Roll  (brown  rice),119,170,6,0.5,0,20,70,19,3,1,10,2,8,0,4
+SUMOMAKI,Red  Eye  Roll,157,180,2.5,0.3,0,45,360,27,1,1,13,0,6,4,6
+SUMOMAKI,Red  Eye  Hand  Roll,103,130,3,0.2,0,45,350,17,1,1,9,0,6,2,4
+SUMOMAKI,Red  Eye  Roll  (brown  rice),157,220,3.5,0.3,0,45,360,32,3,1,13,0,6,2,6
+SUMOMAKI,Red  Eye  Hand  Roll  (brown  rice),103,150,3.5,0.2,0,45,350,20,2,1,9,0,6,2,2
+SUMOMAKI,Miami  Roll,161,250,8,2,0.1,40,450,26,1,2,12,4,2,4,6
+SUMOMAKI,Miami  Hand  Roll,101,170,5,1,0,20,250,16,1,1,8,2,2,2,4
+SUMOMAKI,Miami  Roll  (brown  rice),161,290,9,2,0.1,40,450,31,3,2,13,4,2,2,6
+SUMOMAKI,MiamiHand  Roll  (brown  rice),101,240,6,1,0,20,250,29,3,1,10,2,2,2,4
+SUMOMAKI,Empereur  Roll,168,200,5,2,0,20,125,27,2,1,13,2,8,2,8
+SUMOMAKI,Empereur  Hand  Roll,124,160,5,0.5,0,30,75,16,2,0,12,2,8,2,6
+SUMOMAKI,Empereur  Roll  (brown  rice),168,240,6,0.5,0,20,125,32,4,1,13,2,8,0,8
+SUMOMAKI,Empereur  Hand  Roll  (brown  rice),124,180,6,0.5,0,30,75,19,3,0,13,2,8,0,4
+SUMOMAKI,Spicy  Shrimp  Roll,187,200,6,1,0,55,450,28,3,2,10,10,10,6,10
+SUMOMAKI,Spicy  Shrimp  Hand  Roll,137,160,5,0.5,0,65,390,19,2,1,10,8,8,4,8
+SUMOMAKI,Spicy  Shrimp  Roll  (brown  rice),187,230,7,1,0,55,450,33,5,2,10,10,10,4,10
+SUMOMAKI,Spicy  Shrimp  Hand  Roll  (brown  rice),137,180,6,0.5,0,65,390,22,3,1,10,8,8,2,8
+SUMOMAKI,Exotik  Roll,203,180,2,0.3,0,55,450,32,2,7,9,15,15,6,10
+SUMOMAKI,Exotik  Hand  Roll,156,130,2,0.3,0,30,290,22,2,5,7,15,15,6,10
+SUMOMAKI,Exotik  Roll  (brown  rice),203,220,3,0.3,0,55,450,37,4,7,10,15,15,4,10
+SUMOMAKI,Exotik  Hand  Roll  (brown  rice),156,200,3,0.3,0,30,290,35,4,5,9,15,15,4,8
+SUMOMAKI,Ginger  Roll,175,200,6,0.5,0.1,50,560,26,2,2,11,2,8,4,8
+SUMOMAKI,Ginger  Hand  Roll,116,140,4.5,0.4,0,55,370,17,2,2,8,2,8,2,6
+SUMOMAKI,Ginger  Roll  (brown  rice),175,240,7,0.5,0.1,50,560,31,4,2,12,2,8,2,6
+SUMOMAKI,Ginger  Hand  Roll  (brown  rice),116,160,5,0.4,0,55,370,20,3,2,9,2,8,2,4
+SUMOMAKI,Smoky  Roll,159,210,6,1,0,35,460,28,2,2,9,2,6,4,8
+SUMOMAKI,Smoky  Hand  Roll,109,160,6,1,0,40,390,17,2,1,8,2,6,4,4
+SUMOMAKI,Smoky  Roll  (brown  rice),159,240,8,1,0,35,450,34,4,2,10,2,6,4,8
+SUMOMAKI,SmokyHand  Roll  (brown  rice),109,180,7,1,0,40,390,20,3,1,8,2,6,2,4
+SUMOMAKI,Rock  Lobster  Roll,184,200,7,1,0,30,210,23,3,1,12,10,10,8,8
+SUMOMAKI,Rock  Lobster  Hand  Roll,118,130,4.5,0.5,0,20,135,14,2,0,9,6,8,6,6
+SUMOMAKI,Rock  Lobster  Roll  (brown  rice),184,230,8,1,0,30,210,28,5,1,13,10,10,6,8
+SUMOMAKI,Rock  Lobster  Hand  Roll  (brown  rice),118,150,5,0.5,0,20,135,17,4,0,9,6,8,4,6
+SUMOMAKI,Grilled  Chicken  Roll,185,270,14,1.5,0,20,380,29,2,2,10,15,40,2,10
+SUMOMAKI,Grilled  Chicken  Hand  Roll,136,210,12,1,0,25,300,18,2,1,10,10,40,2,6
+SUMOMAKI,Grilled  Chicken  Roll  (brown  rice),185,310,15,1.5,0,20,370,34,4,2,11,15,40,2,8
+SUMOMAKI,Grilled  Chicken  Hand  Roll  (brown  rice),136,230,12,1,0,25,300,21,3,1,10,10,40,2,6
+SUMOMAKI,Calypso,191,220,10,1.5,0.1,40,500,18,3,3,14,20,15,8,10
+SUMOMAKI,Fusion  Roll,205,220,10,2.5,0.1,20,200,24,2,2,10,15,15,8,10
+SUMOMAKI,Fusion  Hand  Roll,149,140,6,2,0.1,15,130,15,2,2,7,15,10,6,8
+SUMOMAKI,Fusion  Roll  (brown  rice),205,250,11,2.5,0.1,20,200,29,5,2,10,15,15,6,8
+SUMOMAKI,Fusion  Hand  Roll  (brown  rice),149,160,7,2,0.1,15,125,18,3,2,8,15,10,6,6
+SUMOMAKI,Inferno  Roll,167,360,20,6,0.2,55,970,36,4,7,8,4,6,10,10
+SUMOMAKI,Inferno  Hand  Roll,100,210,11,3.5,0.1,55,580,19,2,4,7,4,6,6,4
+SUMOMAKI,Inferno  Roll  (brown  rice),167,400,21,6,0.2,55,970,42,6,7,9,4,6,8,10
+SUMOMAKI,Inferno  Hand  Roll  (brown  rice),100,230,12,3.5,0.1,55,580,22,3,4,7,4,6,4,4
+BLOSSOM,Teriyaki  Salmon - white  rice,231,310,11,1.5,0,35,700,35,3,7,17,40,15,6,10
+BLOSSOM,Teriyaki  Salmon - brown  rice,231,340,13,1.5,0.1,35,700,40,5,7,17,40,15,6,8
+BLOSSOM,Flame -­white rice,248,350,14,1.5,0.1,30,960,48,3,5,10,90,25,8,10
+BLOSSOM,Flame -­brown  rice,248,390,15,1.5,0.1,30,960,54,6,5,11,90,25,6,8
+BLOSSOM,Salmon  Truffle,217,300,7,1,0,90,670,37,0,1,20,4,6,4,15
+BLOSSOM,Salmon  Truffle  (brown  rice),217,340,9,1,0,90,670,43,3,1,21,4,6,4,15
+BLOSSOM,Sesame  Tuna,222,290,5,0.5,0,85,900,37,0,1,22,4,6,4,15
+BLOSSOM,Sesame  Tuna  (brown  rice),222,330,6,0.5,0,85,900,43,3,1,23,4,6,4,15
+BLOSSOM,Volcano,372,650,32,3,0.2,100,370,56,3,1,31,4,8,6,10
+BLOSSOM,Volcano  (brown  rice),372,720,34,3,0.2,100,370,67,7,1,32,4,8,4,10
+BLOSSOM,Diablo,225,320,12,1.5,0.1,70,740,34,2,2,18,4,8,2,8
+BLOSSOM,Diablo  (brown  rice),225,360,13,1.5,0.1,70,740,39,4,2,19,4,8,2,8
+BLOSSOM,Magik,218,320,9,1,0.1,30,1310,39,2,1,16,2,15,4,8
+BLOSSOM,Magik  (brown  rice),218,350,10,1,0.1,30,1310,43,4,1,17,2,15,2,8
+BLOSSOM,Cherry  Blossom,290,440,14,2,0.2,110,1220,56,0,2,20,8,6,6,15
+BLOSSOM,Cherry  Blossom  (brown  rice),290,480,15,2,0.2,110,1220,62,3,2,20,8,6,6,10
+CRISPY ROLLS,Philly,207,420,24,3,0,40,560,40,2,2,12,4,6,2,10
+CRISPY ROLLS,Philly  (brown  rice)  ,207,450,25,3,0,40,560,45,4,2,12,4,6,2,10
+CRISPY ROLLS,Spyder,240,460,26,2,0.1,100,350,37,2,1,20,2,10,10,15
+CRISPY ROLLS,Spyder  (brown  rice),240,500,27,2,0.1,100,350,43,4,1,21,2,10,10,15
+CRISPY ROLLS,Trilogie,202,400,20,2,0,30,75,36,1,1,17,0,6,2,10
+CRISPY ROLLS,Trilogie  (brown  rice),202,430,22,2,0,30,75,41,4,1,18,0,6,2,10
+CRISPY ROLLS,Dragon  Eye,244,410,22,2,0,40,240,34,3,2,22,35,15,4,15
+CRISPY ROLLS,Dragon  Eye  (brown  rice),244,430,22,2,0,40,240,36,4,2,22,35,15,2,15
+SUSHI PIZZA,Sunrise  ,273,550,29,6,0.2,70,770,51,2,6,19,50,10,6,15
+SUSHI PIZZA,Sunrise  (brown  rice),273,590,31,6,0.2,70,770,56,5,7,20,50,10,4,15
+SUSHI PIZZA,CasaBlanca,254,510,28,4.5,0.2,75,270,42,1,3,21,4,20,6,10
+SUSHI PIZZA,CasaBlanca  (brown  rice),254,550,30,4.5,0.2,75,270,48,4,3,22,4,20,4,10
+SUSHI PIZZA,Authentik,252,530,30,5,0.2,70,780,43,1,1,22,6,4,6,15
+SUSHI PIZZA,Authentik  (brown  rice),252,570,31,5,0.2,70,780,48,3,1,22,6,4,4,10
+SUSHI PIZZA,Lobster  &  Co.,248,490,26,4,0.2,65,480,43,1,4,20,10,10,6,15
+SUSHI PIZZA,Lobster  &  Co.  (brown  rice),248,530,28,4,0.2,65,480,49,4,4,20,10,10,6,10
+SUSHI PIZZA,Rainbow  360,251,530,31,5,0.2,35,450,41,2,1,21,6,4,6,15
+SUSHI PIZZA,Rainbow  360  (brown  rice),251,570,32,5,0.2,35,450,47,5,1,22,6,4,4,15
+SUSHI PIZZA,O'Gratin,261,500,27,4.5,0.2,130,290,41,1,1,22,15,40,8,20
+SUSHI PIZZA,O'Gratin  (brown  rice),261,540,28,4.5,0.2,130,290,47,4,1,23,15,40,6,20
+TEMARI,Fireball (1  pc),45,60,1.5,0.2,0,15,140,9,0.3,1,2.5,6,2,2,2
+TEMARI,Fireball - brown  rice  (1  pc),45,75,2,0.2,0,15,140,11,0.8,1,2.5,6,2,1,2
+TEMARI,Fireball (4  pcs),180,230,6,0.5,0.1,60,550,34,1,3,10,25,8,6,8
+TEMARI,Fireball - brown  rice  (4  pcs),180,290,8,0.5,0.1,60,550,42,4,3,10,25,8,4,6
+TEMARI,Tataki Tuna  (1  pc)  ,41,60,2,0.2,0,5,55,8,0,1,2,0,0,0,2
+TEMARI,Tataki Tuna  ‐  brown  rice  (1  pc)  ,41,80,2.5,0.2,0,5,55,10,1,1,3,0,0,0,0
+TEMARI,Tataki Tuna  (4  pcs)  ,164,240,8,1,0,20,220,32,0,4,8,0,0,0,8
+TEMARI,Tataki Tuna  ‐  brown  rice  (4  pcs)  ,164,320,10,1,0,20,220,40,4,4,12,0,0,0,0
+TEMARI,Tropical Salmon  (1  pc)  ,46,60,1.5,0.2,0,15,30,8,0,1,3,2,4,0,2
+TEMARI,Tropical Salmon  ‐  brown  rice  (1  pc)  ,46,70,2,0.2,0,15,30,10,1,1,3,2,4,0,2
+TEMARI,Tropical Salmon  (4  pcs)  ,184,240,6,1,0,60,120,32,0,4,12,8,16,0,8
+TEMARI,Tropical Salmon  brown  rice  (4  pcs)  ,184,280,8,1,0,60,120,40,4,4,12,8,16,0,8
+TEMARI,Smoky  Philly  (1  pc)  ,42,60,2.5,0.5,0,5,60,8,1,0,2,0,4,2,2
+TEMARI,Smoky  Philly  ‐  brown  rice  (1  pc)  ,42,80,3,0.5,0,5,60,10,1,0,2,0,4,2,2
+TEMARI,Smoky  Philly  (  4  pcs)  ,168,240,10,2,0,20,240,32,4,0,8,0,16,8,8
+TEMARI,Smoky  Philly  ‐  brown  rice  (  4  pcs)  ,168,320,12,2,0,20,240,40,4,0,8,0,16,8,8
+TEMARI,Black  Sesame  (1  pc)  ,47,70,3,0.5,0,10,65,8,1,0,3,0,2,2,2
+TEMARI,Black  Sesame  ‐  brown  rice  (1  pc)  ,47,90,3.5,0.5,0,10,65,10,2,0,4,0,2,2,2
+TEMARI,Black  Sesame  (4  pcs)  ,188,280,12,2,0,40,260,32,4,0,12,0,8,8,8
+TEMARI,Black  Sesame  ‐  brown  rice  (4  pcs)  ,188,360,14,2,0,40,260,40,8,0,16,0,8,8,8
+TEMARI,Teriyaki  Bomb  (1  pc)  ,63,150,9,1.5,0,25,250,12,0,3,4,0,0,2,2
+TEMARI,Teriyaki  Bomb  ‐  brown  rice  (1  pc)  ,63,160,9,1.5,0,25,250,14,1,3,4,0,0,0,2
+TEMARI,Teriyaki  Bomb  (4  pcs)  ,252,600,36,6,0,100,1000,48,0,12,16,0,0,8,8
+TEMARI,Teriyaki  Bomb  ‐  brown  rice  (4  pcs)  ,252,640,36,6,0,100,1000,56,4,12,16,0,0,0,8
+TEMARI,Veggie  Bomb  (1  pc)  ,56,120,7,1.5,0,15,210,10,0,3,2,8,8,2,2
+TEMARI,Veggie  Bomb  ‐  brown  rice  (1  pcs)  ,56,130,8,1.5,0,15,210,12,1,3,2,8,8,2,0
+TEMARI,Veggie  Bomb  (4  pcs)  ,224,480,28,6,0,60,840,40,0,12,8,32,32,8,8
+TEMARI,Veggie  Bomb  ‐  brown  rice  (4  pcs)  ,224,520,32,6,0,60,840,44,4,12,8,32,32,8,8
+HAKO,Sircocco,239,360,15,1.5,0.1,65,320,40,3,4,15,10,15,6,8
+HAKO,Sircocco (brown rice),239,410,17,1.5,0.1,65,320,47,6,4,16,10,15,4,6
+HAKO,Mistral,225,390,17,1.5,0,30,310,42,1,2,17,0,4,6,6
+HAKO,Mistral (brown  rice),225,460,19,1.5,0,30,310,52,5,2,18,0,4,4,6
+HAKO,Eklipso,205,270,7,0.4,0,70,710,36,2,5,14,0,25,8,4
+HAKO,Eklipso (brown  rice),205,310,9,0.4,0,70,710,42,4,5,14,0,25,6,2
+HAKO,Sunburst,183,260,8,0.5,0,75,620,34,2,2,12,2,20,2,4
+HAKO,Sunburst (brown  rice),183,300,9,0.5,0,75,620,40,4,2,13,2,20,2,4
+HAKO,Tyfoon,204,280,9,1,0,100,590,36,2,5,13,10,15,6,8
+HAKO,Tyfoon  (brown  rice),204,320,11,1,0,100,590,42,4,5,13,10,15,4,8
+DESSERTS,Banana  chocolate  Bomb  (2  pcs)  ,56,120,5,2,0,0,15,19,1,11,1,0,4,0,6
+DESSERTS,Banana  chocolate  Bomb  (4  pcs)  ,112,240,10,4,0,0,30,38,2,22,2,0,8,0,12
+DESSERTS,Geisha  (3  pcs)  ,92,95,1,1,0,3,70,21,1,4,2,1,25,2,2
+DESSERTS,Geisha  (6  pcs)  ,183,190,1.5,1,0,5,135,42,1,7,3,2,50,4,4
+DESSERTS,Kiwimono  (3  pcs)  ,87,95,1,1,0,3,70,21,1,4,2,1,25,1,3
+DESSERTS,Kiwimono  (6  pcs)  ,174,190,1.5,1,0,5,135,42,2,7,3,2,50,2,6
+DESSERTS,Paradiso  (3  pcs)  ,92,95,1,1,0,3,70,22,1,4,2,5,30,2,2
+DESSERTS,Paradiso  (6  pcs)  ,183,190,2.5,1,0,5,135,43,2,8,3,10,60,4,4
+DESSERTS,Ruby  Mint  (3  pcs)  ,111,120,1,1,0,3,80,27,3,4,2,2,35,2,3
+DESSERTS,Ruby  Mint  (6  pcs)  ,221,240,2,1,0,5,160,54,5,7,3,4,70,4,6
+RAMEN  SOUP,Miso,591,580,18,4.5,0,100,1570,70,5,3,34,2,15,35,30
+RAMEN  SOUP,Miso  with  Grilled  Chicken,631,660,24,5,0,120,1645,76,5,3,37,6,23,35,32
+RAMEN  SOUP,Miso  with  Seafood,641,640,19.5,4.8,0,140,1740,72,5,3,43,4,15,37,34
+RAMEN  SOUP,Miso  with  Shrimp  Tempura,611,640,20.5,4.5,0,115,1610,76,5,3,37,2,15,35,30
+RAMEN  SOUP,Shoyu,591,400,7,1.5,0,100,470,58,3,1,22,2,10,8,10
+RAMEN  SOUP,Shoyu  with  Grilled  Chicken,631,490,13,2,0,120,545,64,3,1,25,6,18,8,12
+RAMEN  SOUP,Shoyu  with  Seafood,641,460,8.5,1.8,0,140,640,60,3,1,31,4,10,10,14
+RAMEN  SOUP,Shoyu  with  Shrimp  Tempura,611,460,9.5,1.5,0,115,510,64,3,1,25,2,10,8,10
+RAMEN  SOUP,Tonkotsu,591,550,12,4.5,0,110,1280,73,4,2,21,2,15,8,10
+RAMEN  SOUP,Tonkotsu  with  Grilled  Chicken,631,630,18,5,0,130,1355,79,4,2,24,6,23,8,12
+RAMEN  SOUP,Tonkotsu  with  Seafood,641,610,13.5,4.8,0,150,1450,75,4,2,30,4,15,10,14
+RAMEN  SOUP,Tonkotsu  with  Shrimp  Tempura,611,610,14.5,4.5,0,125,1320,79,4,2,24,2,15,8,10
+SPRING  MAKI,Spring  Maki  Shrimp,219,310,9,1,0,50,460,43,1,2,12,45,6,6,15
+SPRING  MAKI,Spring  Maki  Shrimp  (brown  rice),219,360,11,1,0,50,460,51,4,2,13,45,6,6,10
+SPRING  MAKI,Spring  Maki  Salmon,263,320,9,1,0,110,420,47,1,6,13,25,90,4,10
+SPRING  MAKI,Spring  Maki  Salmon  (brown  rice),263,370,11,1,0,110,520,54,4,6,13,25,90,4,8
+SPRING  MAKI,Spring  Maki  Lobster,279,380,14,2,0,135,580,47,2,5,17,25,100,6,10
+SPRING  MAKI,Spring  Maki  Lobster  (brown  rice),279,430,15,2,0,135,570,55,5,5,18,25,100,6,10
+SPRING  MAKI,Spring  Maki  Tuna,212,280,8,0.5,0,15,410,42,1,2,10,8,4,4,8
+SPRING  MAKI,Spring  Maki  Tuna  (brown  rice),212,330,9,0.5,0,15,410,49,4,2,11,8,4,2,6
+SPRING  MAKI,Spring  Maki  Chicken,244,310,14,1,0,25,490,43,1,36,12,20,110,6,8
+SPRING  MAKI,Spring  Maki  Chicken  (brown  rice),244,390,15,10,0,25,490,51,4,3,13,20,110,4,6
+SPRING  MAKI,Spring  Maki  Veggie,258,330,12,1.5,0,100,390,48,2,6,7,6,100,8,15
+SPRING  MAKI,Spring  Maki  Veggie  (brown  rice)  ,258,380,14,1.5,0,100,390,56,5,6,8,60,100,6,10
+EXTRAS,Ma!  Sauce,24,105,11,0.5,0,5,210,2,0,2,1,0,0,0,0
+EXTRAS,Spicy  Light  Mayo,24,70,8,0.5,0.1,10,130,1,0,0,0,0,0,0,0
+EXTRAS,Sweet  Chili  Sauce,24,45,0,0,0,0,110,9,0,8,0,0,0,0,0
+EXTRAS,Yin  Yang  Sauce,24,120,11,1.5,0,20,220,3,0,3,0,0,0,0,0
+EXTRAS,Chocolate  Sauce,24,55,0.2,0.1,0,0,20,14,0,10,1,0,0,1,2
+EXTRAS,Maple  Fudge  Sauce,24,20,1,0.2,0,0,30,11,0,6,0,0,0,0,0
+EXTRAS,Gluten Free Soy Sauce,24,20,0,0,0,0,1300,2,0,1,2,0,0,0,0
+EXTRAS,Regular Soy Sauce,24,30,0,0,0,0,720,6,0,6,1,0,0,0,1
+COMBOS,Combo  A,291,320,14,3,0,5,100,44,7,2,8,42,55,10,12
+COMBOS,Combo  B,279,390,18,3,0,40,295,49,7,2,11,4,20,8,10
+COMBOS,Combo  C,299,370,14,2,0,45,445,49,6,2,15,4,18,6,14
+COMBOS,Combo  D,306,360,14,3,0,55,465,48,7,2,14,12,20,10,16
+COMBOS,Combo  E,330,390,17,3,0,130,495,49,7,5,13,17,20,10,16
+COMBOS,Combo  F,331,388,14,2,0,82,427,51,7,4,15,13,21,10,16
+COMBOS,Combo  G,250,305,10,3,0,33,445,42,4,2,15,6,12,7,11
+COMBOS,Combo  H,375,457,16,2,0,66,349,60,6,2,19,6,21,10,16
+COMBOS,Combo  I,358,510,17,4,0,50,760,60,5,8,23,6,11,13,18
+COMBOS,Combo  K,415,460,16,4,0,5,513,69,8,9,14,41,59,22,22
+COMBOS,Combo  M,385,475,15,3,0,78,715,64,6,9,23,4,18,12,22
+COMBOS,Combo  O,498,737,26,4,0,151,1494,88,4,10,36,12,17,15,26
+COMBOS,Combo  P,496,785,33,3,0,143,653,80,4,2,39,4,19,10,17
+COMBOS,Combo  Q,454,692,25,5,0,123,1220,91,4,13,26,11,18,9,25
+COMBOS,Combo  Volcano,534,848,41,5,0,100,953,80,8,4,35,6,18,48,16
+COMBOS,Combo  Diablo,387,518,21,3,0,70,1323,58,7,5,22,6,18,44,14
